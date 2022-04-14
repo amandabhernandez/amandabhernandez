@@ -6,7 +6,7 @@ hi there! I'm a first-year MS Candidate in Environmental Health at the Harvard T
 
 #### I'm currently working on: 
 
-🚰 A a digital report tool for Massachusetts residents who rely on a public water system for their drinking water and are concerned about per- and polyfluoroalkyl substances (PFAS) and other contaminants
+🚰 A digital report tool for Massachusetts residents who rely on a public water system for their drinking water and are concerned about per- and polyfluoroalkyl substances (PFAS) and other contaminants
   - PFAS live site: [https://abhz.shinyapps.io/My-PFAS-Water-Report/](https://abhz.shinyapps.io/My-PFAS-Water-Report/)
   -  PFAS Repo: [https://github.com/amandabhernandez/PFAS-in-MA-DW](https://github.com/amandabhernandez/PFAS-in-MA-DW)
   - Other compounds live site: [https://abhz.shinyapps.io/MA_drinkingwater/](https://abhz.shinyapps.io/MA_drinkingwater/)
