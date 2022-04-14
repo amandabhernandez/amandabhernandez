@@ -6,9 +6,11 @@ hi there! I'm a first-year MS Candidate in Environmental Health at the Harvard T
 
 #### I'm currently working on: 
 
-🚰 A a digital report tool for Massachusetts residents who rely on a public water system for their drinking water and are concerned about per- and polyfluoroalkyl substances (PFAS) 
-  - Live site: [https://abhz.shinyapps.io/My-PFAS-Water-Report/](https://abhz.shinyapps.io/My-PFAS-Water-Report/)
-  - Repo: [https://github.com/amandabhernandez/PFAS-in-MA-DW](https://github.com/amandabhernandez/PFAS-in-MA-DW)
+🚰 A a digital report tool for Massachusetts residents who rely on a public water system for their drinking water and are concerned about per- and polyfluoroalkyl substances (PFAS) and other contaminants
+  - PFAS live site: [https://abhz.shinyapps.io/My-PFAS-Water-Report/](https://abhz.shinyapps.io/My-PFAS-Water-Report/)
+  -  PFAS Repo: [https://github.com/amandabhernandez/PFAS-in-MA-DW](https://github.com/amandabhernandez/PFAS-in-MA-DW)
+  - Other compounds live site: [https://abhz.shinyapps.io/MA_drinkingwater/] (https://abhz.shinyapps.io/MA_drinkingwater/)
+  -  Other compounds repo: [https://github.com/amandabhernandez/MA_drinkingwater] (https://github.com/amandabhernandez/MA_drinkingwater)
 
 
 📝 My collection of R and data communication resources using Notion: [https://amandabhernandez.notion.site/R-resources](https://amandabhernandez.notion.site/R-resources-df2ced5246924d00818de42904df3ed3)
