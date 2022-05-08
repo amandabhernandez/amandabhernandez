@@ -6,11 +6,15 @@ hi there! I'm a first-year MS Candidate in Environmental Health at the Harvard T
 
 #### I'm currently working on: 
 
-🚰 A digital report tool for Massachusetts residents who rely on a public water system for their drinking water and are concerned about per- and polyfluoroalkyl substances (PFAS) and other contaminants
+🚰 Digital report tools for Massachusetts residents who rely on a public water system for their drinking water and are concerned about per- and polyfluoroalkyl substances (PFAS) and contaminants identified by EPA to increase the risk of cancer for long-term exposure above the Maximum Contaminant Level (MCL) 
   - PFAS live site: [https://abhz.shinyapps.io/My-PFAS-Water-Report/](https://abhz.shinyapps.io/My-PFAS-Water-Report/)
   -  PFAS Repo: [https://github.com/amandabhernandez/PFAS-in-MA-DW](https://github.com/amandabhernandez/PFAS-in-MA-DW)
-  - Other compounds live site: [https://abhz.shinyapps.io/MA_drinkingwater/](https://abhz.shinyapps.io/MA_drinkingwater/)
-  -  Other compounds repo: [https://github.com/amandabhernandez/MA_drinkingwater](https://github.com/amandabhernandez/MA_drinkingwater)
+  - Cancer risk live site: [https://abhz.shinyapps.io/MA_drinkingwater/](https://abhz.shinyapps.io/MA_drinkingwater/)
+  -  Cancer risk repo: [https://github.com/amandabhernandez/MA_drinkingwater](https://github.com/amandabhernandez/MA_drinkingwater)
+
+📈 An interactive dashboard for an indoor air quality monitor I had in my apartment for a few months
+  - IAQ Explorer live site: [https://abhz.shinyapps.io/airthings_iaq_explorer/](https://abhz.shinyapps.io/airthings_iaq_explorer/)
+  -  IAQ Explorer Repo: [https://github.com/amandabhernandez/airthings_explorer/tree/main/airthings_iaq_explorer](https://github.com/amandabhernandez/airthings_explorer/tree/main/airthings_iaq_explorer)
 
 
 📝 My collection of R and data communication resources using Notion: [https://amandabhernandez.notion.site/R-resources](https://amandabhernandez.notion.site/R-resources-df2ced5246924d00818de42904df3ed3)
