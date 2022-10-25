@@ -2,7 +2,7 @@
 
 <!-- <h2 align="center">  </h2> --> 
 
-hi there! I'm a second-year MS Candidate in Environmental Health at the Harvard TH Chan School of Public Health. My work is at the intersection of environmental geochemistry and public health, focused on addressing environmental health disparities through community-based participatory research and evidence-based decision-making. I seek out projects that serve the dual purpose of generating new scientific knowledge and addressing community concerns. I primarily use R for my data analysis work, and leverage Shiny apps for interactive data visualization and communication projects. I'm always on the hunt for new (accessible!) tools for organizing, collaborating, designing, etc. 
+hi there! I'm a second-year MS Candidate in Environmental Health at the Harvard TH Chan School of Public Health. My work is at the intersection of environmental geochemistry and public health, focused on addressing environmental health disparities through community-based participatory research and evidence-based decision-making. I seek out projects that serve the dual purpose of generating new scientific knowledge and addressing community concerns. I primarily use R for my data analysis work and leverage Shiny apps for interactive data visualization and communication projects. I'm always on the hunt for new (accessible!) tools for organizing, collaborating, designing, etc. 
 
 #### I'm currently working on: 
 
