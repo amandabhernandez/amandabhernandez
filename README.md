@@ -16,7 +16,7 @@ hi there! I'm a second-year MS candidate in Environmental Health at the Harvard 
   - Microbrewery dashboard: [https://abhz.shinyapps.io/tinybeerteam/](https://abhz.shinyapps.io/tinybeerteam/)
 
 
-📝 My collection of R and data communication/visualization resources on Notion: [https://amandabhernandez.notion.site/R-resources](https://amandabhernandez.notion.site/R-resources-df2ced5246924d00818de42904df3ed3)
+📝 I'm excited to introduce others to R and break down barriers to applied data science. I've served as an advisor/consultant for research projects and hosted a few R workshops; You can find my collection of R and data communication/visualization resources on Notion: [https://amandabhernandez.notion.site/R-resources](https://amandabhernandez.notion.site/R-resources-df2ced5246924d00818de42904df3ed3)
 
 
-💻 A series of R workshops! I'm excited to introduce others to R and break down barriers to applied data science. I've served as an advisor/consultant for research projects and hosted a few R workshops; I'm working on turning my workshop slides into a learnR tutorial geared towards environmental health scientists. Stay tuned! 
+🌸 Fun stuff! Ever wanted to turn your RStudio pink? Ever wondered what your most frequently used R function is? Try out my [Make It Pretty](https://github.com/amandabhernandez/makeitpretty) theme and my [Function Frequency](https://github.com/amandabhernandez/function_frequency) script! 
